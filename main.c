@@ -57,7 +57,7 @@ int main(int argc, char *argv[])
         }
     }
 
-    double start, stop;
+    double start = 0.0, stop = 0.0;
 
     if (modo == 'S' || modo == 's')
     {
